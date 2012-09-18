@@ -1,4 +1,4 @@
-codecook.github.com
+About
 ===================
 
-A simple blog
+This is a simple blog about my idea,my life.
